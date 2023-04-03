@@ -7,6 +7,9 @@ Link APK: https://play.google.com/store/apps/details?id=com.achmadrizkinf.go_lea
 
 ## Make issues if u have error or bugs 
 - Error response code details
-- 509: Data in server was null
+- 519: Data in server was null
 - 503: Token invalid
-- 
+- 900: Error from FRONT END (INTENT NULL)
+- 509: Token Invalid
+- 501: Token Invalid
+- 403: Secret
