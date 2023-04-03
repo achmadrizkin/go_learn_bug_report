@@ -5,4 +5,8 @@ Link APK: https://play.google.com/store/apps/details?id=com.achmadrizkinf.go_lea
 
 ![Modern Futuristic Gaming Youtube Channel Art (2048 × 1152 px)](https://user-images.githubusercontent.com/75843138/229462799-c80f6fed-27d3-4588-9bcc-8d255bd089ea.png)
 
-Make issues if u have error or bugs 
+## Make issues if u have error or bugs 
+- Error response code details
+- 509: Data in server was null
+- 503: Token invalid
+- 
