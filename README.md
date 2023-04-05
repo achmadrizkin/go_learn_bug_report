@@ -14,3 +14,6 @@ Download Go-Learn: Learn Go From Experts !
 - 509: Token Invalid
 - 501: Token Invalid
 - 403: Secret
+
+## Why if i change the ip address in the app, that always show error 509/501
+- because only 1 ip can access 1 session (for security reason) , if u want to change ip address, close app and open it again
